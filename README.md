@@ -1,6 +1,15 @@
-## Hi there 👋
+
+## Hi there,I'm Zeha 👋
 
 Check out my portfolio [here](https://work.zehairawan.com/)
+ 
+## Connect with me
+
+- :bird: Twitter: https://twitter.com/ZehaIrawan 
+- :anchor: LinkedIn : https://www.linkedin.com/in/zehairawan/
+- :pencil2: Blog:https://zehairawan.com
+
+
 <!--
 **ZehaIrawan/ZehaIrawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
