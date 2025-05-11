@@ -7,7 +7,7 @@ Check out my portfolio [here](https://work.zehairawan.com/)
 
 - :bird: Twitter: https://twitter.com/ZehaIrawan 
 - :anchor: LinkedIn : https://www.linkedin.com/in/zehairawan/
-- :pencil2: Blog:https://zehairawan.com
+- :pencil2: Blog: https://zehairawan.com
 
 
 <!--
