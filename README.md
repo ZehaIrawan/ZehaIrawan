@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Zeha 👋
 
-Check out my portfolio [here](https://work.zehairawan.com/)
+Check out my portfolio [here](https://zehairawan.com/)
  
 ## Connect with me
 
