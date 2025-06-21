@@ -6,7 +6,7 @@ Check out my portfolio [here](https://zehairawan.com/)
 ## Connect with me
 
 - :anchor: LinkedIn : https://www.linkedin.com/in/zehairawan/
-- :pencil2: Blog: https://zehairawan.com
+- :pencil2: Blog: https://zehairawan.com/blog
 
 
 <!--
